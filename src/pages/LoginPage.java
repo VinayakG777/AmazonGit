@@ -13,4 +13,8 @@ public void clickOnLoginbtn()
 {
 	System.out.println("click On LoginButton");
 }
+	public void validate ()
+{
+	System.out.println("use assertion");
+}
 }
