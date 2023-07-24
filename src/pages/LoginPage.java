@@ -9,5 +9,8 @@ public void enterPassword()
 {
 	System.out.println("Enter password");
 }
-
+public void clickOnLoginbtn()
+{
+	System.out.println("click On LoginButton");
+}
 }
